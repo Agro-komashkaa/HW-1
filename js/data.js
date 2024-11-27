@@ -2,7 +2,7 @@ const user = {
   name: "Kseniia",
   surname: "Ostrovska",
   userPhoto: "photo_Oketrik.jpg",
-  qrQode: "qr-code.svg",
+  qrQode: "QR.jpg",
   dreams: [
     { src: "designer.jpg", alt: "Робота моєї мрії" },
     { src: "art.jpg", alt: "Хоббі яким я хочу займатися" },
